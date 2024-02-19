@@ -1,6 +1,6 @@
 namespace TrilhaNetAzureDesafio.Models
 {
-    public class Funcionario
+    public class Funcionario 
     {
         public Funcionario() { }
 
